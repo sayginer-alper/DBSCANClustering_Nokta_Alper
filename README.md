@@ -1,7 +1,7 @@
 # DBSCANClustering_Nokta_Alper
 Dot clustering analysis using DBSCAN Clustering algorithm.
 Imports and Data
-DBSCAN Model:
+DBSCAN Model
 Examining DBSCAN Model With Various Epsilon Parameters
 Choosing Best Epsilon Value Wrt Desired # of Outliers
 Determining Number of Outliers
