@@ -23,10 +23,8 @@ Strategic Insight: The results provided a clear "best epsilon" value that maximi
 
 Project Architecture:
 
-EDA and Feature Engineering
-Model: Random Forest Classification
-Train Test Split
-Applying StandardScaler 
-Model training
-Evaluation of Performance
-Results
+Imports and Data
+Model: DBSCAN
+Examining DBSCAN Model with Various Epsilon Parameters
+Choosing Best Epsilon Value wrt Desired # of Outliers
+Determining # of Outliers
